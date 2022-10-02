@@ -1,0 +1,17 @@
+#name {
+    font-family: serif; 
+    color: blueviolet;
+}
+
+body {
+    background-color: paleturquoise;
+}
+#desc {border-style: outset;}
+
+#judul {
+    font-family: monospace;
+    color:gray
+}
+table
+{width: 75%;}
+
