@@ -1,0 +1,41 @@
+.images-hero {
+    width: 250px; 
+    height: 250px;
+    object-fit: cover;
+}
+
+.title {
+    font-family: 'Playfair Display', serif;
+}
+.subtitle {
+    letter-spacing: 10px;
+}
+
+#hero {
+    height: 95vh;
+}
+
+.deskripsi {
+    font-family: 'Roboto Slab', serif;
+    text-indent: 50px;
+}
+
+.judul {
+    font-family: 'Playfair Display', serif;
+}
+
+.skill {
+    font-family: 'Playfair Display', serif;
+}
+
+.text-center {
+    font-family: 'Playfair Display', serif;
+}
+
+.card {
+    font-family: 'Roboto Slab', serif;
+}
+
+.skill-title {
+    font-family: 'Source Sans Pro', sans-serif; 
+}
